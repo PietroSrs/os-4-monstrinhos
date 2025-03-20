@@ -1,2 +1,2 @@
-# os-4-monstrinhos
-os 4 monstrinhos
+# os-6-monstrinhos
+os 6 monstrinhos
